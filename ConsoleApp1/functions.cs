@@ -1,8 +1,8 @@
 ﻿namespace ConsoleApp1;
 
-public class functions
+public class Functions
 {
-    string a;
+    string? a;
     int b;
 
     void details(){
